@@ -1,0 +1,6 @@
+<div class="footer" >
+      <div class="links"  id="ECS_MEMBERZONE"> {insert_scripts files='utils.js'}
+
+  	 <p class="mf_o4">{$copyright}</p>
+</div>
+

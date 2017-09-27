@@ -1,0 +1,1115 @@
+20160601 18:51:39
+log::getOpenId::get:
+
+20160601 18:51:39
+log::getOpenId::payment:
+
+20160601 18:51:39
+error::getOpenId::empty:wxpay_appid:
+
+20160601 18:51:39
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160601 18:51:39
+log::getOpenId::payment:
+
+20160601 18:51:39
+error::getOpenId::empty:wxpay_appid:
+
+20160601 18:51:55
+log::getOpenId::get:
+
+20160601 18:51:55
+log::getOpenId::payment:
+
+20160601 18:51:55
+error::getOpenId::empty:wxpay_appid:
+
+20160601 18:55:46
+log::getOpenId::get:
+
+20160601 18:55:46
+log::getOpenId::payment:
+
+20160601 18:55:46
+error::getOpenId::empty:wxpay_appid:
+
+20160601 18:55:46
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160601 18:55:46
+log::getOpenId::payment:
+
+20160601 18:55:46
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:04:56
+log::getOpenId::get:
+
+20160601 19:04:56
+log::getOpenId::payment:
+
+20160601 19:04:56
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:04:56
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160601 19:04:56
+log::getOpenId::payment:
+
+20160601 19:04:56
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:05:18
+log::getOpenId::get:
+
+20160601 19:05:18
+log::getOpenId::payment:
+
+20160601 19:05:18
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:05:20
+log::getOpenId::get:
+
+20160601 19:05:20
+log::getOpenId::payment:
+
+20160601 19:05:20
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:05:20
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160601 19:05:20
+log::getOpenId::payment:
+
+20160601 19:05:20
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:05:21
+log::getOpenId::get:
+
+20160601 19:05:21
+log::getOpenId::payment:
+
+20160601 19:05:21
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:05:23
+log::getOpenId::get:
+
+20160601 19:05:23
+log::getOpenId::payment:
+
+20160601 19:05:23
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:05:24
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160601 19:05:24
+log::getOpenId::payment:
+
+20160601 19:05:24
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:05:25
+log::getOpenId::get:
+
+20160601 19:05:25
+log::getOpenId::payment:
+
+20160601 19:05:25
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:18:29
+log::getOpenId::get:
+
+20160601 19:18:29
+log::getOpenId::payment:
+
+20160601 19:18:29
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:18:29
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160601 19:18:29
+log::getOpenId::payment:
+
+20160601 19:18:29
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:19:43
+log::getOpenId::get:
+
+20160601 19:19:43
+log::getOpenId::payment:
+
+20160601 19:19:43
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:19:44
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160601 19:19:44
+log::getOpenId::payment:
+
+20160601 19:19:44
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:19:47
+log::getOpenId::get:
+
+20160601 19:19:47
+log::getOpenId::payment:
+
+20160601 19:19:47
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:19:51
+log::getOpenId::get:
+
+20160601 19:19:51
+log::getOpenId::payment:
+
+20160601 19:19:51
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:19:56
+log::getOpenId::get:
+
+20160601 19:19:56
+log::getOpenId::payment:
+
+20160601 19:19:56
+error::getOpenId::empty:wxpay_appid:
+
+20160601 19:19:57
+log::getOpenId::get:
+
+20160601 19:19:57
+log::getOpenId::payment:
+
+20160601 19:19:57
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:31:28
+log::getOpenId::get:
+
+20160601 21:31:28
+log::getOpenId::payment:
+
+20160601 21:31:28
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:31:30
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160601 21:31:30
+log::getOpenId::payment:
+
+20160601 21:31:30
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:31:35
+log::getOpenId::get:
+
+20160601 21:31:35
+log::getOpenId::payment:
+
+20160601 21:31:35
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:31:38
+log::getOpenId::get:
+Array
+(
+    [id] => 361
+)
+
+
+20160601 21:31:38
+log::getOpenId::payment:
+
+20160601 21:31:38
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:31:44
+log::getOpenId::get:
+
+20160601 21:31:44
+log::getOpenId::payment:
+
+20160601 21:31:44
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:31:44
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160601 21:31:44
+log::getOpenId::payment:
+
+20160601 21:31:44
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:04
+log::getOpenId::get:
+
+20160601 21:46:04
+log::getOpenId::payment:
+
+20160601 21:46:04
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:06
+log::getOpenId::get:
+Array
+(
+    [id] => 361
+)
+
+
+20160601 21:46:06
+log::getOpenId::payment:
+
+20160601 21:46:06
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:09
+log::getOpenId::get:
+Array
+(
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => salenum
+    [order] => DESC
+)
+
+
+20160601 21:46:09
+log::getOpenId::payment:
+
+20160601 21:46:09
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:09
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => salenum
+    [order] => DESC
+    [other_has] => 0
+)
+
+
+20160601 21:46:09
+log::getOpenId::payment:
+
+20160601 21:46:09
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:11
+log::getOpenId::get:
+Array
+(
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => goods_id
+    [order] => DESC
+)
+
+
+20160601 21:46:11
+log::getOpenId::payment:
+
+20160601 21:46:11
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:14
+log::getOpenId::get:
+Array
+(
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => salenum
+    [order] => DESC
+)
+
+
+20160601 21:46:14
+log::getOpenId::payment:
+
+20160601 21:46:14
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:14
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => salenum
+    [order] => DESC
+    [other_has] => 0
+)
+
+
+20160601 21:46:14
+log::getOpenId::payment:
+
+20160601 21:46:14
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:17
+log::getOpenId::get:
+Array
+(
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => last_update
+    [order] => DESC
+)
+
+
+20160601 21:46:17
+log::getOpenId::payment:
+
+20160601 21:46:17
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:18
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => last_update
+    [order] => DESC
+    [other_has] => 0
+)
+
+
+20160601 21:46:18
+log::getOpenId::payment:
+
+20160601 21:46:18
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:20
+log::getOpenId::get:
+Array
+(
+    [id] => 254
+)
+
+
+20160601 21:46:20
+log::getOpenId::payment:
+
+20160601 21:46:20
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:22
+log::getOpenId::get:
+Array
+(
+    [act] => list_json
+    [goods_id] => 254
+    [type] => 0
+    [page] => 1
+    [1464788780843843] => 
+)
+
+
+20160601 21:46:22
+log::getOpenId::payment:
+
+20160601 21:46:22
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:24
+log::getOpenId::get:
+Array
+(
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => last_update
+    [order] => DESC
+)
+
+
+20160601 21:46:24
+log::getOpenId::payment:
+
+20160601 21:46:24
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:24
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => last_update
+    [order] => DESC
+    [other_has] => 0
+)
+
+
+20160601 21:46:24
+log::getOpenId::payment:
+
+20160601 21:46:24
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:28
+log::getOpenId::get:
+Array
+(
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => last_update
+    [order] => DESC
+)
+
+
+20160601 21:46:28
+log::getOpenId::payment:
+
+20160601 21:46:28
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:31
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => last_update
+    [order] => DESC
+    [other_has] => 0
+)
+
+
+20160601 21:46:31
+log::getOpenId::payment:
+
+20160601 21:46:31
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:34
+log::getOpenId::get:
+Array
+(
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => goods_id
+    [order] => DESC
+)
+
+
+20160601 21:46:34
+log::getOpenId::payment:
+
+20160601 21:46:34
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:43
+log::getOpenId::get:
+Array
+(
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => goods_id
+    [order] => DESC
+)
+
+
+20160601 21:46:43
+log::getOpenId::payment:
+
+20160601 21:46:43
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:47
+log::getOpenId::get:
+
+20160601 21:46:47
+log::getOpenId::payment:
+
+20160601 21:46:47
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:46:48
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160601 21:46:48
+log::getOpenId::payment:
+
+20160601 21:46:48
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:48:11
+log::getOpenId::get:
+
+20160601 21:48:11
+log::getOpenId::payment:
+
+20160601 21:48:11
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:48:13
+log::getOpenId::get:
+Array
+(
+    [id] => 361
+)
+
+
+20160601 21:48:13
+log::getOpenId::payment:
+
+20160601 21:48:13
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:48:19
+log::getOpenId::get:
+Array
+(
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => salenum
+    [order] => DESC
+)
+
+
+20160601 21:48:19
+log::getOpenId::payment:
+
+20160601 21:48:19
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:48:20
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+    [category] => 361
+    [display] => grid
+    [brand] => 0
+    [price_min] => 0
+    [price_max] => 0
+    [filter_attr] => 0
+    [page] => 1
+    [sort] => salenum
+    [order] => DESC
+    [other_has] => 0
+)
+
+
+20160601 21:48:20
+log::getOpenId::payment:
+
+20160601 21:48:20
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:48:24
+log::getOpenId::get:
+Array
+(
+    [id] => 361
+)
+
+
+20160601 21:48:24
+log::getOpenId::payment:
+
+20160601 21:48:24
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:48:26
+log::getOpenId::get:
+
+20160601 21:48:26
+log::getOpenId::payment:
+
+20160601 21:48:26
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:48:27
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160601 21:48:27
+log::getOpenId::payment:
+
+20160601 21:48:27
+error::getOpenId::empty:wxpay_appid:
+
+20160601 21:53:11
+log::getOpenId::get:
+
+20160601 21:53:11
+log::getOpenId::payment:
+
+20160601 21:53:11
+error::getOpenId::empty:wxpay_appid:
+
+20160602 09:24:23
+log::getOpenId::get:
+
+20160602 09:24:23
+log::getOpenId::payment:
+
+20160602 09:24:23
+error::getOpenId::empty:wxpay_appid:
+
+20160602 09:24:24
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160602 09:24:24
+log::getOpenId::payment:
+
+20160602 09:24:24
+error::getOpenId::empty:wxpay_appid:
+
+20160602 09:25:35
+log::getOpenId::get:
+Array
+(
+    [ad_id] => 24
+    [uri] => 
+)
+
+
+20160602 09:25:35
+log::getOpenId::payment:
+
+20160602 09:25:35
+error::getOpenId::empty:wxpay_appid:
+
+20160602 09:25:35
+log::getOpenId::get:
+
+20160602 09:25:35
+log::getOpenId::payment:
+
+20160602 09:25:35
+error::getOpenId::empty:wxpay_appid:
+
+20160602 09:25:35
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160602 09:25:35
+log::getOpenId::payment:
+
+20160602 09:25:35
+error::getOpenId::empty:wxpay_appid:
+
+20160602 09:26:48
+log::getOpenId::get:
+Array
+(
+    [ad_id] => 3
+    [uri] => http://127.0.0.1/ec273/vsc/vsc_xjdv4/topic.php?topic_id=6
+)
+
+
+20160602 09:26:48
+log::getOpenId::payment:
+
+20160602 09:26:48
+error::getOpenId::empty:wxpay_appid:
+
+20160602 09:26:50
+log::getOpenId::get:
+Array
+(
+    [ad_id] => 4
+    [uri] => http://127.0.0.1/ec273/vsc/vsc_xjdv4/topic.php?topic_id=6
+)
+
+
+20160602 09:26:50
+log::getOpenId::payment:
+
+20160602 09:26:50
+error::getOpenId::empty:wxpay_appid:
+
+20160602 09:34:29
+log::getOpenId::get:
+
+20160602 09:34:29
+log::getOpenId::payment:
+
+20160602 09:34:29
+error::getOpenId::empty:wxpay_appid:
+
+20160602 09:34:29
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160602 09:34:29
+log::getOpenId::payment:
+
+20160602 09:34:29
+error::getOpenId::empty:wxpay_appid:
+
+20160602 09:34:29
+log::getOpenId::get:
+Array
+(
+    [ad_id] => 52
+    [uri] => 
+)
+
+
+20160602 09:34:29
+log::getOpenId::payment:
+
+20160602 09:34:29
+error::getOpenId::empty:wxpay_appid:
+
+20160602 10:11:51
+log::getOpenId::get:
+
+20160602 10:11:51
+log::getOpenId::payment:
+
+20160602 10:11:51
+error::getOpenId::empty:wxpay_appid:
+
+20160602 10:11:53
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160602 10:11:53
+log::getOpenId::payment:
+
+20160602 10:11:53
+error::getOpenId::empty:wxpay_appid:
+
+20160602 10:12:15
+log::getOpenId::get:
+
+20160602 10:12:15
+log::getOpenId::payment:
+
+20160602 10:12:15
+error::getOpenId::empty:wxpay_appid:
+
+20160602 10:12:16
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160602 10:12:16
+log::getOpenId::payment:
+
+20160602 10:12:16
+error::getOpenId::empty:wxpay_appid:
+
+20160602 10:15:07
+log::getOpenId::get:
+
+20160602 10:15:07
+log::getOpenId::payment:
+
+20160602 10:15:07
+error::getOpenId::empty:wxpay_appid:
+
+20160602 10:15:08
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20160602 10:15:08
+log::getOpenId::payment:
+
+20160602 10:15:08
+error::getOpenId::empty:wxpay_appid:
+
+20161129 20:58:45
+log::getOpenId::get:
+Array
+(
+    [nsukey] => ckvUIYlox0IFl1lQK/l2nzE8styZbDFRu/SXdIJACcSklnFRfywhjHRV3eFD2LTgzQrxrMA8Rq7T3ahXqGb//v0x9w2/6eW/L+RHB8BYtwsvSI1dYu2km83Gbztq4xfDkMyX879KPSUUhTUtc49RZNvPfvdaszSuUha4UqJESVPAxRc2HDlQ6EwwpF3jVRSY
+)
+
+
+20161129 20:58:45
+log::getOpenId::payment:
+
+20161129 20:58:45
+error::getOpenId::empty:wxpay_appid:
+
+20161129 20:58:48
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20161129 20:58:48
+log::getOpenId::payment:
+
+20161129 20:58:48
+error::getOpenId::empty:wxpay_appid:
+
+20161129 20:58:52
+log::getOpenId::get:
+Array
+(
+    [nsukey] => xXF5Wwd5GkdtruQ4W1jtFFtubC4eXE6hRWxA9k/oAIHyJd0DgeDI+fN0CM+q/mb4Of8T0sV7027ESPHab4GX9/DVXH9QP89ZoGuJ84SbiBCYiVc9qYoPLhEpHjy33U/KISu1FzLjnbcqmkc2pvqf1ASgjpAXLBFT1iLfEupMNwHPoHIuYgq+INe2Q2F22wL3
+)
+
+
+20161129 20:58:52
+log::getOpenId::payment:
+
+20161129 20:58:52
+error::getOpenId::empty:wxpay_appid:
+
+20161129 20:58:55
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20161129 20:58:55
+log::getOpenId::payment:
+
+20161129 20:58:55
+error::getOpenId::empty:wxpay_appid:
+
+20161129 21:06:25
+log::getOpenId::get:
+Array
+(
+    [nsukey] => ckvUIYlox0IFl1lQK/l2nzE8styZbDFRu/SXdIJACcSklnFRfywhjHRV3eFD2LTgzQrxrMA8Rq7T3ahXqGb//v0x9w2/6eW/L+RHB8BYtwsvSI1dYu2km83Gbztq4xfDkMyX879KPSUUhTUtc49RZNvPfvdaszSuUha4UqJESVPAxRc2HDlQ6EwwpF3jVRSY
+)
+
+
+20161129 21:06:25
+log::getOpenId::payment:
+
+20161129 21:06:25
+error::getOpenId::empty:wxpay_appid:
+
+20161129 21:06:27
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20161129 21:06:27
+log::getOpenId::payment:
+
+20161129 21:06:27
+error::getOpenId::empty:wxpay_appid:
+
+20161129 21:06:32
+log::getOpenId::get:
+Array
+(
+    [id] => 327
+)
+
+
+20161129 21:06:32
+log::getOpenId::payment:
+
+20161129 21:06:32
+error::getOpenId::empty:wxpay_appid:
+
+20161129 21:06:45
+log::getOpenId::get:
+Array
+(
+    [nsukey] => xXF5Wwd5GkdtruQ4W1jtFFtubC4eXE6hRWxA9k/oAIHyJd0DgeDI+fN0CM+q/mb4Of8T0sV7027ESPHab4GX9/DVXH9QP89ZoGuJ84SbiBCYiVc9qYoPLhEpHjy33U/KISu1FzLjnbcqmkc2pvqf1ASgjpAXLBFT1iLfEupMNwHPoHIuYgq+INe2Q2F22wL3
+)
+
+
+20161129 21:06:45
+log::getOpenId::payment:
+
+20161129 21:06:45
+error::getOpenId::empty:wxpay_appid:
+
+20161129 21:06:47
+log::getOpenId::get:
+Array
+(
+    [act] => ajax
+)
+
+
+20161129 21:06:47
+log::getOpenId::payment:
+
+20161129 21:06:47
+error::getOpenId::empty:wxpay_appid:
+
